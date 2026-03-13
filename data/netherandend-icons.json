@@ -1,26 +1,26 @@
 {
   "icons": {
-    "warped": [
+    "warped": {
       "available" : true,
       "start": {
         "day": 1,
-        "month": 1,
+        "month": 1
       },
       "end": {
         "day": 2,
-        "month": 2,
+        "month": 2
       }
-    ],
-    "crimson": [
+    },
+    "crimson": {
       "available" : true,
       "start": {
         "day": 1,
-        "month": 1,
+        "month": 1
       },
       "end": {
         "day": 2,
-        "month": 2,
+        "month": 2
       }
-    ]
+    }
   }
 }
