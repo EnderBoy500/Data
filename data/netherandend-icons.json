@@ -15,10 +15,10 @@
       "available" : false,
       "start": {
         "day": 1,
-        "month": 1
+        "month": 2
       },
       "end": {
-        "day": 2,
+        "day": 14,
         "month": 2
       }
     }
