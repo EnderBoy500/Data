@@ -3,12 +3,12 @@
     "warped": {
       "available" : true,
       "start": {
-        "day": 1,
-        "month": 1
+        "day": 9,
+        "month": 10
       },
       "end": {
-        "day": 2,
-        "month": 2
+        "day": 19,
+        "month": 11
       }
     },
     "crimson": {
@@ -18,7 +18,7 @@
         "month": 2
       },
       "end": {
-        "day": 12,
+        "day": 14,
         "month": 2
       }
     }
